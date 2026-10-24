@@ -1,4 +1,4 @@
-# 🏥 CampusMed AI: Prasad Institute of Technology
+# 🏥 CampusMed AI: Prasad Institute of Technology Jaunpur
 ### Autonomous College Medical & Emergency Response Network
 **Institution:** Prasad Institute of Technology  
 **Theme:** Vibe Coding / AI-Driven Campus Healthcare & Safety  
