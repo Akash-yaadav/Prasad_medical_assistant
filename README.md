@@ -63,7 +63,7 @@ Categorized by emergency type with 1-tap direct dialing:
 
 1. Open your terminal in this project folder:
    ```powershell
-   cd C:\Users\Akash\.gemini\antigravity\scratch\campusmed-ai
+   cd scratc\campusmed-ai
    ```
 2. Start the application:
    ```powershell
